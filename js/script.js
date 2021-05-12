@@ -31,6 +31,7 @@
     stopSearchAnim();
   });
 
+/*
   // Share
   $('body').on('click', function(){
     $('.article-share-box.on').removeClass('on');
@@ -85,6 +86,7 @@
 
     window.open(this.href, 'article-share-box-window-' + Date.now(), 'width=500,height=450');
   });
+*/
 
   // Caption
   $('.article-entry').each(function(i){
